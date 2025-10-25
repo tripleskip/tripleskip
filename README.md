@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @tripleskip
 - 👀 I’m interested in learning and exploring
-- 🌱 I’m currently learning html haha
+- 🌱 I’m currently learning html, python, c, css
 - 💞️ I’m looking to collaborate in the future
 - 📫 How to reach me 8179140465
-- 😄 Pronouns: dumb
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: factless
 
 <!---
