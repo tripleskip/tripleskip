@@ -1,11 +1,5 @@
 # Hi there! I'm tripleskip 👋
 
-![Profile Views](https://komarev.com) ![Followers](https://shields.io)
-
-![Header Banner](https://vercel.app🚀&fontSize=40&animation=twinkling&fontAlignY=40)
-
-![Typing SVG](https://demolab.com⚡+Building+the+Future+of+Web;🎨+Designing+Interactive+Experiences;🤖+Automating+All+The+Things;✨+Welcome+Creative+Mind!)
-
 ---
 
 ### 🔮 About My Universe
@@ -15,20 +9,22 @@ I am a creative technologist focused on highly responsive systems and striking a
 * 🟢 **Status:** Active & Open to exciting collaborations
 * 🛠️ **Current Mission:** Architecting high-performance scalable systems
 * 🧠 **Hyperfocus:** Advanced state management and real-time streams
-* 📬 **Direct Signal:** your.email@example.com
+* 📬 **Direct Signal:** @example.com
 
 ---
 
-### 🚀 Powered By
+### 🚀 Tech Stack & Core Competencies
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| 🎨 **Frontend** | `JavaScript` • `TypeScript` • `React` • `Next.js` • `HTML5` • `CSS3` |
+| ⚙️ **Backend** | `Node.js` • `Python` • `Express` • `REST APIs` |
+| 🛠️ **DevOps & Tools** | `Docker` • `AWS` • `Git` • `GitHub` • `VS Code` • `Linux` |
 
 ---
 
 ### 📡 Establish Connection
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Twitter](https://shields.io)](https://twitter.com)
-[![Portfolio Site](https://shields.io)](https://YOUR_WEBSITE.com)
-
-![Footer Banner](https://vercel.app)
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 🐦 **Twitter:** [://twitter.com](https://://twitter.com)
+* 🌐 **Portfolio Site:** [YOUR_WEBSITE.com](https://YOUR_WEBSITE.com)
