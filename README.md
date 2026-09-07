@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @tripleskip
-- 👀 I’m interested in learning and exploring
-- 🌱 I’m currently learning html, python, c, css
-- 💞️ I’m looking to collaborate in the future
-- 📫 How to reach me 8179140465
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: factless
+# Hi there! I'm tripleskip 👋
 
-<!---
-tripleskip/tripleskip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com) ![Followers](https://shields.io)
+
+![Header Banner](https://vercel.app🚀&fontSize=40&animation=twinkling&fontAlignY=40)
+
+![Typing SVG](https://demolab.com⚡+Building+the+Future+of+Web;🎨+Designing+Interactive+Experiences;🤖+Automating+All+The+Things;✨+Welcome+Creative+Mind!)
+
+---
+
+### 🔮 About My Universe
+
+I am a creative technologist focused on highly responsive systems and striking aesthetics. I bridge the gap between heavy structural backend design and smooth, playful frontend interactions.
+
+* 🟢 **Status:** Active & Open to exciting collaborations
+* 🛠️ **Current Mission:** Architecting high-performance scalable systems
+* 🧠 **Hyperfocus:** Advanced state management and real-time streams
+* 📬 **Direct Signal:** your.email@example.com
+
+---
+
+### 🚀 Powered By
+
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+---
+
+### 📡 Establish Connection
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Twitter](https://shields.io)](https://twitter.com)
+[![Portfolio Site](https://shields.io)](https://YOUR_WEBSITE.com)
+
+![Footer Banner](https://vercel.app)
